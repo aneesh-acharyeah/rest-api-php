@@ -17,7 +17,7 @@ This is a simple PHP-based REST API that allows you to perform CRUD operations (
 
 ```
 .
-├── index.php          # Main REST API logic
+├── api.php          # Main REST API logic
 └── conn.php           # Database connection config
 ```
 
